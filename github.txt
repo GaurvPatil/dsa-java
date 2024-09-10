@@ -1,0 +1,2 @@
+1)git restore --staged .
+for removing from staged for all use ( . ) for single file use file path
